@@ -1,0 +1,8 @@
+spring:
+   application:
+      name: app-docker-test-service
+   profiles: dev
+   
+server:
+   port: 8090
+   
